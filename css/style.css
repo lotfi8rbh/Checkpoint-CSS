@@ -1,0 +1,37 @@
+nav{
+    display: inline;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Sarticle{
+    text-align: center;
+
+}
+.Oops{
+    font-size: small;
+}
+.hhh{
+    color: rgb(54, 46, 218);
+    text-align: center;
+    font-size: xx-large;
+}
+.EL-MAKLA{
+    font-style: oblique;
+    font-weight: 600;
+    padding: 10%;
+    margin-top: 10%;
+}
+.plat-prix{
+    text-align: center;
+    
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+}
